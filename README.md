@@ -98,6 +98,3 @@ The dataset was originally published by Professor I-Cheng Yeh and is publicly av
 - Introduce more domain-specific features (e.g., curing temperature)
 
 ---
-
-## 📁 Project Structure
-
